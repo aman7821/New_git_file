@@ -1,0 +1,3 @@
+Hi There
+this is my first text file
+made for the learning purpose
